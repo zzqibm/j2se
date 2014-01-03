@@ -78,7 +78,7 @@ public class CMSService {
 			}
 			System.out.println("ÈÕÆÚ£º" + list.get(i).getCmsTime());
 			System.out.println("ÄÚÈİ£º" + list.get(i).getCmsBody());
-			System.out.println("===================");
+			System.out.println("=============");
 		}
 	}
 }
